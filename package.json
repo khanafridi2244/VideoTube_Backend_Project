@@ -1,0 +1,17 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "Full Backend Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "Backend",
+    "Sikandar",
+    "Chai"
+  ],
+  "author": "Sikandar Afridi",
+  "license": "ISC"
+}
