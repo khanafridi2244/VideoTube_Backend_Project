@@ -6,6 +6,13 @@ const app = express()
 
 
 
+
+
+
+
+
+
+/*
 (() => {
     try {
         await mongoose.connect(`${process.env.MONGODB_URI}/${DB_NAME}`)
@@ -22,3 +29,5 @@ const app = express()
         throw err
     }
 })()
+    */
+   
