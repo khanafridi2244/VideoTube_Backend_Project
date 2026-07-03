@@ -63,17 +63,6 @@ src/
 └── app.js
 ```
 
-## 🔐 Authentication Flow
-
-1. User registers an account.
-2. Password is hashed using Bcrypt before storing.
-3. User logs in and receives:
-
-   * Access Token
-   * Refresh Token
-4. Protected routes are accessed using JWT authentication.
-5. Refresh tokens are used to generate new access tokens securely.
-
 ## 📦 Installation
 
 ```bash
@@ -98,7 +87,7 @@ npm run dev
 Create a `.env` file in the root directory and add:
 
 ```env
-PORT=8000
+PORT=8001
 
 MONGODB_URI=your_mongodb_connection_string
 
