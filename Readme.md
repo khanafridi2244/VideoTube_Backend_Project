@@ -6,7 +6,7 @@ This project follows production-style patterns: centralized error handling, JWT-
 
 ## Data Model
 
-📌 **Model diagram:** [(https://app.eraser.io/workspace/KeCUWXpYEuy3c0ZhLt0H?origin=share)](https://app.eraser.io/workspace/YOUR-LINK)
+📌 **Model diagram:** [https://app.eraser.io/workspace/KeCUWXpYEuy3c0ZhLt0H?origin=share]
 
 > Replace this with your own model link (e.g. from [Eraser.io](https://eraser.io), [dbdiagram.io](https://dbdiagram.io), or a diagram you've drawn) once you have one hosted.
 
@@ -100,7 +100,7 @@ npm install
 Create a `.env` file in the root directory (use `.env.sample` as a reference):
 
 ```env
-PORT=8000
+PORT=8001
 MONGODB_URI=your_mongodb_connection_string
 CORS_ORIGIN=*
 
@@ -120,7 +120,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 npm run dev
 ```
 
-Server runs at `http://localhost:8000` by default.
+Server runs at `http://localhost:8001` by default.
 
 ## API Overview
 
