@@ -2,6 +2,9 @@
 
 A robust and scalable backend project built with **Node.js**, **Express.js**, **MongoDB**, and **Mongoose**. This project powers a video hosting platform similar to YouTube, providing all essential backend functionalities required for a modern video-sharing application.
 
+# project model
+(https://app.eraser.io/workspace/KeCUWXpYEuy3c0ZhLt0H?origin=share)
+
 ## 🚀 Features
 
 * User Authentication & Authorization
